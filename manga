@@ -1,0 +1,17 @@
+{
+  "title": "One Punch Man",
+  "description": "manga description",
+  "artist": "manga artist",
+  "author": "manga author",
+  "cover": "<page_0.png>",
+  "chapters": {
+    "<168>": {
+      "title": "Awakening of the Gods",
+      "volume": "56",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/tfda8dI/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
