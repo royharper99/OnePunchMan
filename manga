@@ -3,7 +3,7 @@
   "description": "manga description",
   "artist": "manga artist",
   "author": "manga author",
-  "cover": "page_0.png",
+  "cover": "https://static.wikia.nocookie.net/onepunchman/images/4/48/Volume_23_Cover.png/revision/latest?cb=20211006104754",
   "chapters": {
     "168": {
       "title": "Awakening of the Gods",
